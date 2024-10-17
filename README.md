@@ -449,11 +449,6 @@ int main() {
 
 ![Thanika crypto 3](https://github.com/user-attachments/assets/53c4f5dc-61c4-4bad-9e55-06423d48aea3)
 
-Simulating Hill Cipher
-
-
-Input Message : SecurityLaboratory
-Padded Message : SECURITYLABORATORY Encrypted Message : EACSDKLCAEFQDUKSXU Decrypted Message : SECURITYLABORATORY
 ## RESULT:
 The program is executed successfully
 
